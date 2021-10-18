@@ -4,7 +4,7 @@
 
 ### Data Science Projects 
 
-[Airport Flight Delay Predictor](/sample_page)
+[Airport Flight Delay Predictor](https://tyler-reichardt.github.io/projects/Flight_Analysis.html)
 <img src="images/Flight analysis picture.webp?raw=true"/>
 
 ---
