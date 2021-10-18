@@ -4,7 +4,7 @@
 
 ### Data Science Projects 
 
-[Airport Flight Delay Predictor](/Flight Analysis.md)
+[Airport Flight Delay Predictor](/projects/Flight_Analysis.md)
 <img src="images/Flight analysis picture.webp?raw=true"/>
 
 ---
