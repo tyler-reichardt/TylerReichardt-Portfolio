@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Data Science Projects 
 
 [Airport Flight Delay Predictor](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
